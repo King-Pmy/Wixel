@@ -1,0 +1,28 @@
+# Keil MDK 编译输出文件
+*.o
+*.d
+*.crf
+*.axf
+*.htm
+*.lnp
+*.plg
+*.bak
+*.dep
+*.iex
+*.hex
+*.bin
+*.map
+*.lst
+*.build_log.htm
+
+# 编译生成的目标文件夹
+Debug/
+Release/
+Objects/
+Listings/
+
+# CubeMX 和 VS Code 生成的文件
+*.uvguix.*
+.mxproject
+.vscode/
+build/
