@@ -708,16 +708,6 @@
               <FilePath>..\Ueser\pid.h</FilePath>
             </File>
             <File>
-              <FileName>motor_ctrl.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\Ueser\motor_ctrl.c</FilePath>
-            </File>
-            <File>
-              <FileName>motor_ctrl.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>..\Ueser\motor_ctrl.h</FilePath>
-            </File>
-            <File>
               <FileName>motor_task.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\Ueser\motor_task.c</FilePath>
@@ -726,6 +716,16 @@
               <FileName>motor_task.h</FileName>
               <FileType>5</FileType>
               <FilePath>..\Ueser\motor_task.h</FilePath>
+            </File>
+            <File>
+              <FileName>motor_ctrl.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\Ueser\motor_ctrl.c</FilePath>
+            </File>
+            <File>
+              <FileName>motor_ctrl.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>..\Ueser\motor_ctrl.h</FilePath>
             </File>
           </Files>
         </Group>

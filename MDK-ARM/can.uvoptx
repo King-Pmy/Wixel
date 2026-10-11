@@ -153,32 +153,27 @@
         <Ww>
           <count>0</count>
           <WinNumber>1</WinNumber>
-          <ItemText>c610_fb,0x0A</ItemText>
+          <ItemText>s_spd,0x0A</ItemText>
         </Ww>
         <Ww>
           <count>1</count>
           <WinNumber>1</WinNumber>
-          <ItemText>c610_pos_counts,0x0A</ItemText>
+          <ItemText>s_pos,0x0A</ItemText>
         </Ww>
         <Ww>
           <count>2</count>
           <WinNumber>1</WinNumber>
-          <ItemText>c610_target_pos,0x0A</ItemText>
+          <ItemText>TGT,0x0A</ItemText>
         </Ww>
         <Ww>
           <count>3</count>
           <WinNumber>1</WinNumber>
-          <ItemText>c610_posdeg</ItemText>
+          <ItemText>m2006_target_angle,0x0A</ItemText>
         </Ww>
         <Ww>
           <count>4</count>
           <WinNumber>1</WinNumber>
-          <ItemText>c610_target_current,0x0A</ItemText>
-        </Ww>
-        <Ww>
-          <count>5</count>
-          <WinNumber>1</WinNumber>
-          <ItemText>c610_target_rpm,0x0A</ItemText>
+          <ItemText>m2006_fb,0x0A</ItemText>
         </Ww>
       </WatchWindow1>
       <Tracepoint>
@@ -758,8 +753,8 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>..\Ueser\motor_ctrl.c</PathWithFileName>
-      <FilenameWithoutPath>motor_ctrl.c</FilenameWithoutPath>
+      <PathWithFileName>..\Ueser\motor_task.c</PathWithFileName>
+      <FilenameWithoutPath>motor_task.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
     </File>
@@ -770,8 +765,8 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>..\Ueser\motor_ctrl.h</PathWithFileName>
-      <FilenameWithoutPath>motor_ctrl.h</FilenameWithoutPath>
+      <PathWithFileName>..\Ueser\motor_task.h</PathWithFileName>
+      <FilenameWithoutPath>motor_task.h</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
     </File>
@@ -782,8 +777,8 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>..\Ueser\motor_task.c</PathWithFileName>
-      <FilenameWithoutPath>motor_task.c</FilenameWithoutPath>
+      <PathWithFileName>..\Ueser\motor_ctrl.c</PathWithFileName>
+      <FilenameWithoutPath>motor_ctrl.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
     </File>
@@ -794,8 +789,8 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>..\Ueser\motor_task.h</PathWithFileName>
-      <FilenameWithoutPath>motor_task.h</FilenameWithoutPath>
+      <PathWithFileName>..\Ueser\motor_ctrl.h</PathWithFileName>
+      <FilenameWithoutPath>motor_ctrl.h</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
     </File>

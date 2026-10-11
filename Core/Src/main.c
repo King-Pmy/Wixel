@@ -130,11 +130,11 @@ int main(void)
   MX_UART8_Init();
   MX_TIM2_Init();
   /* USER CODE BEGIN 2 */
-  if (C610_Init() != HAL_OK) {
+  if (M2006_Init() != HAL_OK) {
     printf("CAN init fail\r\n");
     Error_Handler();
   } 
-  uint32_t print_cnt = 0;
+//  uint32_t print_cnt = 0;
   
   HAL_UART_Receive_IT(&huart8,&rx_byte,1);
  
